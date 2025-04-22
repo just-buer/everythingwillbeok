@@ -5,6 +5,10 @@ import postcssPxToViewport from 'postcss-px-to-viewport'
 
 export default defineConfig({
   plugins: [vue()],
+  build: {
+    outDir: 'docs'
+  },
+  base: './',
   css: {
     postcss: {
       plugins: [
