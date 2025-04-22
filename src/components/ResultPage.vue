@@ -108,8 +108,8 @@ onMounted(() => {
       <div id="entropy-dimensions-chart" style="width: 90vw;height:50vh;"></div>
     </div>
     <div class="result-footer">
-      <p>作者邮箱：<a href="mailto:jimmy37369@gmail.com">jimmy37369@gmail.com</a></p>
-      <img src="/vite.svg" alt="二维码" class="qr-code" />
+      <p>联系邮箱：<a href="mailto:jimmy37369@gmail.com">jimmy37369@gmail.com</a></p>
+      <img src="/image.png" alt="随缘打赏" class="qr-code" />
     </div>
   </div>
 </template>
@@ -142,7 +142,7 @@ onMounted(() => {
 
 .qr-code {
   margin-top: 10px;
-  width: 120px;
-  height: 120px;
+  width: 80vw;
+  //height: 120px;
 }
 </style>
