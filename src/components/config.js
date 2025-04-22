@@ -147,12 +147,12 @@ export const questions = {
     },
     {
       "id": 30,
-      "text": "只要是能获得满足感的工作，哪怕没有报酬also 我愿意做",
+      "text": "只要是能获得满足感的工作，哪怕没有报酬我也愿意做",
       "reverse_scoring": false
     },
     {
       "id": 31,
-      "text": "面对压力时，我会思考自己做了什么事情要不要这些",
+      "text": "面对压力时，我会思考自己做了什么事情要不要承受这些",
       "reverse_scoring": true
     },
     {
@@ -188,4 +188,4 @@ export const questions = {
       "work_resistance": [9, 10, 11, 12, 13, 14, 15, 16, 25, 26, 27, 28, 29, 30, 31, 32]
     }
   }
-};
+}
