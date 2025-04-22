@@ -152,7 +152,7 @@ export const questions = {
     },
     {
       "id": 31,
-      "text": "面对压力时，我会思考自己做了什么事情要不要承受这些",
+      "text": "面对压力时，我会思考自己做了什么事情要承受这些",
       "reverse_scoring": true
     },
     {
